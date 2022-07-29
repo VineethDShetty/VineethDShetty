@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+* I'm Currently Undergrad Student of Computer Science Engineering Department.
+* I'm currently working as a  Software Developer at AthrV
+
+
+
+## My Interests 🖥
+
 
 ## My Technical Skills 📝
 1. JavaScript

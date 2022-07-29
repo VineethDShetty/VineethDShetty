@@ -12,7 +12,6 @@
 * I love Programming 💻
 * I like Exploring New things.
 * I like playing Chess and Cricket and Consume contents related to Tech and Start-Ups.
-* <a href="https://www.google.com/" target="_blank">Google</a>
 
 
 ## My Technical Skills 📝

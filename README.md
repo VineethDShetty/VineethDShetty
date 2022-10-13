@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![GitHub Banner](https://user-images.githubusercontent.com/62731884/195542164-7f1e5410-e2cb-4fc5-ae95-bb82a48dcf20.png)
+
+
 * I'm Currently Undergrad Student of Computer Science Engineering Department.
 * I'm currently working as a  Software Developer at AthrV.
 * I have also worked as Full Stack Developer at Stelna Designs

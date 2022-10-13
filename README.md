@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Banner](https://user-images.githubusercontent.com/62731884/195542164-7f1e5410-e2cb-4fc5-ae95-bb82a48dcf20.png)
+![GitHub Banner](https://user-images.githubusercontent.com/62731884/195546425-7267a203-14ff-4460-b7ab-1ebfe5ed29be.png)
 
 
 * I'm Currently Undergrad Student of Computer Science Engineering Department.

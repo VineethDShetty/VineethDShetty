@@ -10,7 +10,7 @@
 * I like playing Chess and Cricket and Consume contents related to Tech and Start-Ups.
 
 
-## My Skill Set 📝
+## Technologies ⚡
 
 ![Node.js](https://img.shields.io/badge/-NodeJS-563D7C?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-ExpressJS-1572B6?style=flat-square&logo=Express)

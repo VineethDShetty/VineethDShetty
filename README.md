@@ -48,7 +48,7 @@
 [![CodeSandBox](https://img.shields.io/badge/-VineethDShetty-orange?style=flat-square&logo=codesandbox&logoColor=white&link=https://codesandbox.io/u/vineethdshetty)](https://codesandbox.io/u/vineethdshetty)
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=VineethDShetty&count_private=true&show_icons=true&include_all_commits=true&theme=dark) -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VineethDShetty.VineethDShetty)
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=VineethDShetty.VineethDShetty) -->
 
 
 

@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/62731884/201482969-2f8ed291-f692-4651-9e9e-9223c679eb92.png)
 
-##### Hi there 👋, Vineeth D Shetty here. I am a Undergrad Computer Science Engineer and a Software Developer based in Udupi, India who is working as a Founding Software Developer at [AthrV](https://edathrv.com), an early-stage ed-tech startup.
+##### Hi there 👋, Vineeth D Shetty here. I am a Undergrad Computer Science Engineer and currently working Cloud and Digital Intern at PWC AC.
 
 ## My Interests 🖥
 * I love Programming 💻

@@ -2,7 +2,7 @@
 
 ![GitHub Banner](https://user-images.githubusercontent.com/62731884/201482969-2f8ed291-f692-4651-9e9e-9223c679eb92.png)
 
-##### Hi there 👋, Vineeth D Shetty here. I am a Undergrad Computer Science Engineer and currently working Cloud and Digital Intern at PWC AC.
+##### Hi there 👋, Vineeth D Shetty here.
 
 ## My Interests 🖥
 * I love Programming 💻

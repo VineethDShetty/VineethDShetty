@@ -26,6 +26,7 @@
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1572B6?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-563D7C?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-03a57a?style=flat-square&logo=c)
